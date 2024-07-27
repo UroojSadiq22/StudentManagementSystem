@@ -1,1 +1,3 @@
-"# StudentManagementSystem" 
+# StudentManagementSystem
+
+This project is a straightforward console-based Student Management System. In this project, i add features like how to add new students, generate unique 5-digit student IDs, and enroll students in available courses. Additionally, i implement operations such as enrolling in courses, viewing balances, paying tuition fees, and displaying student statuses. The status feature provide comprehensive details about the student, including name, ID, enrolled courses, and account balance. This project is an excellent way to practice and apply Object-Oriented Programming concepts.
